@@ -10,7 +10,7 @@ import Signup from "./pages/Signup";
 import Search from "./pages/Search";
 
 const App = () => {
-  document.title = "Wikipedia Searcher";
+  document.title = "Employee Finder";
   return (
     <Router>
       <div>
