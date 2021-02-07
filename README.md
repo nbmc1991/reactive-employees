@@ -12,8 +12,7 @@
 [Installation](#installation)
 
 [Usage](#usage)
-![](https://github.com/nbmc1991/readmegenerator/blob/main/visual/2020-11-13.png)
-
+![](https://github.com/nbmc1991/reactive-employees\public\demoshot.png)
 
 [Testing](#testing)
 
