@@ -12,7 +12,8 @@
 [Installation](#installation)
 
 [Usage](#usage)
-![](https://github.com/nbmc1991/reactive-employees\public\demoshot.png)
+![](https://github.com/nbmc1991/reactive-employees/blob/master/public/demoshot.png)
+
 
 [Testing](#testing)
 
