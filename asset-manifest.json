@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/reactive-employees/static/js/main.57f2f5bc.chunk.js",
-    "main.js.map": "/reactive-employees/static/js/main.57f2f5bc.chunk.js.map",
+    "main.js": "/reactive-employees/static/js/main.72c6ec8c.chunk.js",
+    "main.js.map": "/reactive-employees/static/js/main.72c6ec8c.chunk.js.map",
     "runtime-main.js": "/reactive-employees/static/js/runtime-main.9f17dc16.js",
     "runtime-main.js.map": "/reactive-employees/static/js/runtime-main.9f17dc16.js.map",
     "static/css/2.150d169a.chunk.css": "/reactive-employees/static/css/2.150d169a.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.9f17dc16.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.a4c130ef.chunk.js",
-    "static/js/main.57f2f5bc.chunk.js"
+    "static/js/main.72c6ec8c.chunk.js"
   ]
 }
