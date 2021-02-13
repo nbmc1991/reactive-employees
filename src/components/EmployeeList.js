@@ -16,7 +16,7 @@ function EmployeeList(props) {
                 {props.results.map(result => (
                     < tr key={result.name.first} >
                         <th scope="row">
-                            <img alt={result.name.first} scr={result.picture.thumbnail}></img></th>
+                            <img alt={result.name.first} src={result.picture.thumbnail}></img></th>
                         <td>{result.name.first + " " + result.name.last}</td>
                         <td>{result.email}</td>
                         <td>{result.phone}</td>

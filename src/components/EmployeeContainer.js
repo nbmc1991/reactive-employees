@@ -16,7 +16,10 @@ class EmployeeContainer extends Component {
 
   componentDidMount() {
     API.search()
-      .then(res => this.setState({ results: res.data.results }))
+      .then(res => {
+        console.log(res)
+        this.setState({ results: res.data.results })
+      })
       .catch(err => console.log(err));
   }
 
